@@ -13,3 +13,9 @@ Windows Search
 
 sysmain (superfetch)
 * startup type: from auto to manual (ok to disable?)
+
+## System Settings
+Advanced System Settings - Virtual Memory - no paging file
+Processor scheduling - adjust for best performance of: Programs
+Visual effects - adjust for best performance
+
