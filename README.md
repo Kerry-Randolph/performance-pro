@@ -9,4 +9,7 @@ Control Panel\All Control Panel Items\Security and Maintenance\Change Security a
 
 ## Services
 Windows Search
-* startup type: manual (ok to disable?)
+* startup type: from auto to manual (ok to disable?)
+
+sysmain (superfetch)
+* startup type: from auto to manual (ok to disable?)
