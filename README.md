@@ -19,3 +19,9 @@ Advanced System Settings - Virtual Memory - no paging file
 Processor scheduling - adjust for best performance of: Programs
 Visual effects - adjust for best performance
 
+disable hibernation:
+* powercfg /hibernate off
+* (deletes huge 13GB hiberfil.sys)
+
+
+
